@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aangel_be21@thapar.edu**
 
-- ⚡ Fun fact **If you like cats, i think we should be friends**
+- ⚡ Note--**If you like cats, i think we should be friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
