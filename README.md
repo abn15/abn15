@@ -3,9 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/ctrl_zedd" target="blank"><img src="https://img.shields.io/twitter/follow/ctrl_zedd?logo=twitter&style=for-the-badge" alt="ctrl_zedd" /></a> </p>
 
+- 🍀 **Exploring new stuff.**
+
 - 🌱 I’m currently learning **React.js**
 
-- 🤝 I’m looking for help with **data structures and algorithms**
+- 🤝 I’m looking for help with **Data structures and algorithms**
+
+- 👾 Also i'm keen to learn about **Pixel Art**
 
 - 📫 How to reach me **aangel_be21@thapar.edu**
 
