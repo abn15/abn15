@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/ctrl_zedd" target="blank"><img src="https://img.shields.io/twitter/follow/ctrl_zedd?logo=twitter&style=for-the-badge" alt="ctrl_zedd" /></a> </p>
 
+- 🤍 Pronouns- **she/her**
+
 - 🍀 **Exploring new stuff.**
 
 - 🌱 I’m currently learning **React.js**
