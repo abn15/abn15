@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Data structures and algorithms**
 
-- 👾 Also i'm keen to learn about **Pixel Art**
-
 - 📫 How to reach me **aangel_be21@thapar.edu**
 
 - ⚡ Note--**If you like cats, i think we should be friends**
