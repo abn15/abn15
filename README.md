@@ -2,6 +2,8 @@
 <h3 align="center">A computer science undergrad</h3>
 
 <p align="left"> <a href="https://twitter.com/ctrl_zedd" target="blank"><img src="https://img.shields.io/twitter/follow/ctrl_zedd?logo=twitter&style=for-the-badge" alt="ctrl_zedd" /></a> </p>
+![GitHub followers](https://img.shields.io/github/followers/angelbansal?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=abn15&color=brightgreen">  
 
 - 🤍 Pronouns- **she/her**
 
