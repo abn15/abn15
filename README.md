@@ -43,5 +43,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abn15&" alt="abn15" /></p>
 
--**Holopin board**
-[![@angelb's Holopin board](https://holopin.me/angelb)](https://holopin.io/@angelb)
